@@ -10,6 +10,7 @@ const About = () => {
   };
 
   return (
+    
     <div className="about-container">
       <div className="sidebar">
         <img src={pic} alt="TechLearn Hub Logo" className='img-fluid'/>
